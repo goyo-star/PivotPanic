@@ -30,3 +30,9 @@ git clone https://github.com/Rayaan2009/PivotPanic.git
 cd PivotPanic
 pip install pygame
 python pivotpanic.py
+
+
+---
+
+Made with ❤️, a bit of tea ☕, and a fair bit of panic.  
+By [Rayaan2009](https://github.com/Rayaan2009)
