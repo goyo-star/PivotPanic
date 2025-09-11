@@ -4,7 +4,7 @@ Alright, so here's the idea, I got bored of the usual "sorting visualisers" and 
 what if we turn it into a proper *race*?  
 
 **PivotPanic** is a little game where it's just you, your mouse,  
-and QuickSort itself – first one to get the array in order wins.  
+and QuickSort itself, first one to get the array in order wins.  
 It's fun, a bit stressful, and you actually learn how sorting works along the way.  
 
 
@@ -17,7 +17,7 @@ It's fun, a bit stressful, and you actually learn how sorting works along the wa
 - Your mission: **finish sorting before the algorithm does.**
 - Press **R** to reset and go again.
 - Press **1 / 2 / 3** to change array size.
-- **Spacebar** pauses the algorithm (cheeky way to buy some time 😏).
+- **Spacebar** pauses the algorithm (cheeky way to buy some time 🤭).
 
 ---
 
