@@ -1,6 +1,6 @@
 # 🎯 PivotPanic - You vs. QuickSort
 
-> Oi, fancy a proper challenge? This isn’t your nan’s sorting visualiser - it’s you vs. QuickSort in a full‑on race.
+> Mate, fancy a proper challenge? This isn’t your nan’s sorting visualiser - it’s you vs. QuickSort in a full‑on race.
 
 
 ---
