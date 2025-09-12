@@ -2,6 +2,9 @@
 
 > Mate, fancy a proper challenge? This isn’t your nan’s sorting visualiser - it’s you vs. QuickSort in a full‑on race.
 
+<p align="center">
+<img src="demo.gif" alt="Gameplay demo" width="720" />
+</p>
 
 ---
 
